@@ -1,4 +1,4 @@
 hello-world
 ===========
 
-test and general
+Information about this general test project
